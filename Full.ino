@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
 #include <MicroGear.h>
 
-const char* ssid     = "SkyNet";
-const char* password = "0856225746";
+const char* ssid     = "";
+const char* password = "";
 
 #define APPID   "SmartHomeKMUTNB"
 #define KEY     "939z1vxSIM8ua6A"
